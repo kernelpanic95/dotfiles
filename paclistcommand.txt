@@ -1,4 +1,0 @@
-pacman -Qm > /home/$USER/git/dotfiles/pkglistaur.txt
-
-pacman -Qqet | grep -v "$(pacman -Qqg)" | grep -v "$(pacman -Qqm)" > /home/kernelpanic/git/dotfiles/pkglist.txt
-
