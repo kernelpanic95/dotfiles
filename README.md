@@ -1,15 +1,4 @@
 # my dotfiles
-
-  ____        _    __ _ _            
- |  _ \  ___ | |_ / _(_) | ___  ___  
- | | | |/ _ \| __| |_| | |/ _ \/ __| 
- | |_| | (_) | |_|  _| | |  __/\__ \ 
- |____/ \___/ \__|_| |_|_|\___||___/ 
-                                     
-  
-by kernelpanic.sh (2023) 
------------------------------------------------------ 
-
 This is the configuration of my Arch linux based installation for Hyprland (Wayland) and Qtile (Xorg).
 
 ## Common Packages
