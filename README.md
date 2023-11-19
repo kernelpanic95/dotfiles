@@ -4,6 +4,7 @@
 ## This is the configuration of my Arch linux based installation for Hyprland (Wayland) and Qtile (Xorg).
 
 ## screenshots
+
 ![screenshot-20231119-182105](https://github.com/kernelpanic95/dotfiles/assets/89152958/4f7a6ce7-b1a6-4526-bc29-a893609719a1)
 ![screenshot-20231119-165958](https://github.com/kernelpanic95/dotfiles/assets/89152958/4cc1cc8e-ba51-4130-a36e-bfb9ddaa93b1)
 ![screenshot-20231119-165448](https://github.com/kernelpanic95/dotfiles/assets/89152958/816d07c2-2269-4815-bf4d-308ce92dfaa1)
@@ -34,6 +35,7 @@
 ## Hyprland
 <details>
 <summary></summary>
+
 - Status Bar: waybar
 - Screenshots: grim & slurp
 - Clipboard Manager: cliphist
@@ -44,6 +46,7 @@
 ## qtile
 <details>
 <summary></summary>
+
 - Compositor: picom
 - Status Bar: polybar
 - Screenshots: scrot
