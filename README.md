@@ -1,7 +1,7 @@
 # my dotfiles
 ![screenshot-20231118-232853](https://github.com/kernelpanic95/dotfiles/assets/89152958/61dde83f-25f9-4c99-b63a-e72d3ca0e97f)
 
-## This is the configuration of my Arch linux based installation for Hyprland (Wayland) and Qtile (Xorg).
+## This is the configuration of my Arch linux based installation for Hyprland (Wayland) and Qtile (Xorg) based on [Stephane Raabe dotfiles](https://gitlab.com/stephan-raabe/dotfiles/).
 
 ## screenshots
 
