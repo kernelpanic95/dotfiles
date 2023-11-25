@@ -138,12 +138,25 @@ fi
 clear
 
 # ------------------------------------------------------
-# Install .bashrc
+# Install .bashrc and fish config
 # ------------------------------------------------------
 echo ""
 echo "-> Install .bashrc"
 
 _installSymLink .bashrc ~/.bashrc ~/dotfiles/.bashrc ~/.bashrc
+
+echo ""
+echo "-> Install fish config"
+
+cp -r ~/dotfiles/fish ~/.config/fish
+
+echo "Please note that the default shell is bash, "
+echo "if you want to change it to fish run the following commands: "
+echo "echo /usr/local/bin/fish | sudo tee -a /etc/shells"
+echo "chsh -s /usr/local/bin/fish"
+echo ""
+echo "or you can simply add 'exec fish' to your .bashrc file"
+sleep 2
 
 
 # ------------------------------------------------------
