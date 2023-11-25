@@ -245,7 +245,7 @@ alias ascii='~/dotfiles/scripts/figlet.sh'
 # EDIT NOTES
 # -----------------------------------------------------
 
-alias notes='vim ~/notes.txt'
+alias notes='~/dotfiles/scripts/notes.sh'
 
 # Changing "ls" to "exa"
 alias ls='exa -al --color=always --group-directories-first' # my preferred listing
