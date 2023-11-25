@@ -23,7 +23,7 @@ echo "# ------------------------------------------"
 echo ""
 echo "Hello friend."
 
-read -p "Do you want to open notes dir or start a new note? (d/n) " choice;
+read -n 1 -p "Do you want to open notes dir or start a new note? (d/n) " choice;
 
 case $choice in 
     d|D)
