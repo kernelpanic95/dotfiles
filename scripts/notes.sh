@@ -7,6 +7,7 @@
 #                            
 #  
 # by kernelpanic.sh (2023) 
+# this is a script for managing my notes
 # ----------------------------------------------------- 
 
 read -p "Enter note filename adding the .txt extension: " notefile
