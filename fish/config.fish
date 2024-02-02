@@ -375,6 +375,7 @@ cat ~/.cache/wal/sequences
 # Or install it from the Arch User Repository: shell-color-scripts
 #colorscript random
 pfetch
-echo "hello friend."
+echo "hello friend.
+call me kernelpanic."
 ### SETTING THE STARSHIP PROMPT ###
 starship init fish | source

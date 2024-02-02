@@ -21,7 +21,7 @@
 			"default": ""
         },
         "persistent_workspaces": {
-             "*": 1
+             "*": 0
         }       
     },
 
@@ -212,7 +212,7 @@
         "tooltip-format-ethernet": "  {ifname} ({ipaddr}/{cidr})",
         "tooltip-format-disconnected": "Disconnected",
         "max-length": 50,
-	"on-click": "nm-connection-editor"
+	"on-click": "xfce4-terminal -e nmtui"
     },
 
     // Battery

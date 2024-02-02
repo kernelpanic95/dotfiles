@@ -67,12 +67,12 @@
     },
 
     // Group Hardware
-    "group/hardware": {
-        "orientation": "horizontal",
-        "modules": [
-            "disk",
-            "cpu",
-            "memory"
-        ]
-    }
+ //   "group/hardware": {
+   //     "orientation": "horizontal",
+     //   "modules": [
+       //     "disk",
+         //   "cpu",
+          //  "memory"
+//        ]
+  //  }
 }
